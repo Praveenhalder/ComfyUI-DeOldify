@@ -1,4 +1,17 @@
 
+
+# DeOldify ComfyUI Node (beta)
+
+A ComfyUI custom node that integrates [DeOldify](https://github.com/jantic/DeOldify) for AI-powered image colorization directly into your ComfyUI workflows.
+
+## Installation
+
+**1. Clone this repo into your ComfyUI custom nodes folder:**
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/your-username/deoldify_comfyui_node
+```
+
 # DeOldify
 
 **This Reposisitory is Archived**  This project was a wild ride since I started it back in 2018.  6 years ago as of this writing (October 19, 2024)!.  It's time for me to move on and put this repo in the archives as I simply don't have the time to attend to it anymore, and frankly it's ancient as far as deep-learning projects go at this point! ~Jason
