@@ -9,7 +9,7 @@ A ComfyUI custom node that integrates [DeOldify](https://github.com/jantic/DeOld
 **1. Clone this repo into your ComfyUI custom nodes folder:**
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-username/deoldify_comfyui_node
+git clone https://github.com/Praveenhalder/ComfyUI-DeOldify
 ```
 
 # DeOldify
